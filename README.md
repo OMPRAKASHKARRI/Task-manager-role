@@ -321,38 +321,50 @@ Tell me which follow-up you'd like and I'll proceed.
 POV: Admin
 ```
 ### Dashboard Overview
-![Dashboard Overview](./frontend/screenshorts/dashboard-one.png)
-![Dashboard Overview](./frontend/screenshorts/dashboard-two.png)
+![Dashboard Overview](<img width="1354" height="642" alt="dashboard-one" src="https://github.com/user-attachments/assets/efa9b4d4-7440-42a7-aa32-ab82597738a7" />)
+![Dashboard Overview]("<img width="1352" height="643" alt="dashboard-two" src="https://github.com/user-attachments/assets/d5e22f35-fa89-4b41-a68f-1d94287df966" />
+")
 
 ### Manage Tasks
-![Manage Task](./frontend/screenshorts/manageTask.png)
+![Manage Task](<img width="1351" height="650" alt="manageTask" src="https://github.com/user-attachments/assets/adb3d540-ab1f-4769-8abb-2f83c709344c" />
+)
 
 ### Create Task
-![Create Task](./frontend/screenshorts/createTask.png)
+![Create Task](<img width="1349" height="643" alt="createTask" src="https://github.com/user-attachments/assets/376e0bdb-5a37-432d-936f-688f2acece8b" />
+)
 
 ### When the admin clicks Assigned To, a popup displays user details, allowing the admin to select users to assign the task.
-![Assign Users](./frontend/screenshorts/assignUsers.png)
+![Assign Users](<img width="1350" height="625" alt="assignUsers" src="https://github.com/user-attachments/assets/f7b8acdf-2e5f-47f4-8c86-9a0ae5b350a0" />
+)
 
 ### Team Members
-![Team Members](./frontend/screenshorts/teamMembers.png)
+![Team Members](<img width="1350" height="648" alt="teamMembers" src="https://github.com/user-attachments/assets/49b61632-8d4b-4bb9-b1b6-13326b7f93c0" />
+)
 
 ```
 POV: member
 ```
 
 ### Dashboard Overview
-![Dashboard Overview](./frontend/screenshorts/userDashboard-one.png)
-![Dashboard Overview](./frontend/screenshorts/userDashboard-two.png)
+![Dashboard Overview](<img width="1347" height="641" alt="userDashboard-one" src="https://github.com/user-attachments/assets/11bf28ab-f466-4b5e-a92c-1d81873d5a01" />
+)
+![Dashboard Overview](<img width="1351" height="640" alt="userDashboard-two" src="https://github.com/user-attachments/assets/62fc2d84-7769-4f11-a5aa-ae677791a3c3" />
+)
 
 ### My Tasks
-![My Tasks](./frontend/screenshorts/userMyTask.png)
+![My Tasks](<img width="1350" height="642" alt="userMyTask" src="https://github.com/user-attachments/assets/cb58afe0-68f9-4879-8552-1dd92b73f862" />
+)
 
 ### When a member opens an assigned task, its details pop up. Completing the to-do checklist updates the task status.
-![Task Status](./frontend/screenshorts/userCompleteTask.png)
+![Task Status](<img width="1351" height="642" alt="userCompleteTask" src="https://github.com/user-attachments/assets/50d7d6e4-579d-4610-85d4-420c14465059" />
+)
+
 
 ### Login Page
-![Login Page](./frontend/screenshorts/login.png)
+![Login Page](<img width="1365" height="638" alt="login" src="https://github.com/user-attachments/assets/f1219967-1a07-4cb9-a836-bdfca4532801" />
+)
 ### Sign Up Page
-![Sign Up Page](./frontend/screenshorts/signup.png)
+![Sign Up Page](<img width="1366" height="642" alt="signup" src="https://github.com/user-attachments/assets/6056e5f0-0481-455e-b714-e7d147ad90fb" />
+)
 
-**© 2025 All right reserved. ~ This project is Designed and Developed by `Manish Kumar`.**
+**© 2025 All right reserved. ~ This project is Designed and Developed by `OMPRAKASH KARRI`.**
