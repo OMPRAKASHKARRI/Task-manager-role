@@ -4,10 +4,11 @@ export const BASE_URL = import.meta.env.VITE_BASE_URL;
 // utils/apiPaths.js
 export const API_PATHS = {
     AUTH : {
-        REGISTER:"/api/auth/register", // Register a new user(Admin or Member)
-        LOGIN:"/api/auth/login",    // Authenticate user and return JWT token
-        GET_PROFILE:"/api/auth/profile",    // Get logged-in user deatils
-    },
+    REGISTER: "/api/auth/register",
+    LOGIN: "/api/auth/login",
+    GET_PROFILE: "/api/auth/profile",
+},
+
 
     USERS:{
         GET_ALL_USERS:"/api/users",
